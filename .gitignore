@@ -1,0 +1,5 @@
+# Visual Studio Code settings
+.settings/
+
+# Node.js settings
+app.js
